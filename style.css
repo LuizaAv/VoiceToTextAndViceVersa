@@ -1,0 +1,21 @@
+#container{
+    width: 100vh;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+h2{
+    color: rgb(126, 11, 68);
+}
+
+#recBtn{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(126, 11, 68);
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+}
